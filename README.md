@@ -16,6 +16,4 @@ Este proyecto es una adaptación digital del tradicional juego *Parqués*, desar
 ---
 
 ## 🚀 Cómo ejecutar el juego
-
-   git clone https://github.com/tuusuario/parques-un-console
-   cd parques-un-console
+https://github.com/montano-04/parque_cons/blob/7ef5eef5fc739bc0ff2ca29e0d5cc08f0048f5f8/.gitignore
